@@ -1,5 +1,13 @@
-# 💫 About Me:
-# Hi there 👋 I'm Satyam Tiwari  <br><br>💻 Passionate about Web Development, Artificial Intelligence, and building meaningful digital experiences that solve real-world problems. I enjoy exploring modern technologies and transforming creative ideas into functional projects.  <br><br>🚀 Currently focused on improving my skills in Full-Stack Development, working with modern web technologies, building responsive user interfaces, and understanding how scalable applications are developed from scratch.  <br><br>🌱 Deeply interested in Artificial Intelligence, Machine Learning, Open Source, and innovative tech communities. I love learning by building projects, experimenting with new tools, and continuously challenging myself to grow as a developer.  <br><br>🤝 Open to collaborating on exciting projects, hackathons, startup ideas, and open-source contributions where I can learn, contribute, and work with other passionate developers and creators.  <br><br>📚 Constantly learning and improving in areas like problem-solving, backend development, APIs, JavaScript ecosystems, development workflows, and creating better user experiences through clean and efficient design.  <br><br>⚡ I believe consistency, curiosity, and creativity are the most important parts of becoming a great developer. My goal is to keep learning, keep building, and create projects that make an impact while growing every single day in the tech world.  <br><br>🔥 Apart from coding, I enjoy exploring new technologies, discovering AI tools, improving productivity, and finding creative ways to turn ideas into reality through technology.  <br><br>## 🌐 Connect With Me  <br>- Always open to learning, collaboration, and new opportunities in tech  <br>- Interested in innovation, development, and building impactful projects  <br><br>“Code. Create. Learn. Grow.” 🚀
+# Hi there 👋 I'm Satyam Tiwari  
+
+💻 Passionate about Web Development, AI, and creating impactful digital experiences  
+🚀 Currently building projects using modern web technologies and continuously improving my development skills  
+🌱 Exploring Full-Stack Development, Machine Learning, Open Source, and creative tech ideas  
+🤝 Open to collaborating on innovative projects, hackathons, and community-driven development  
+📚 Constantly learning new technologies and turning ideas into real-world applications  
+⚡ Focused on growth, consistency, and building a strong future in tech  
+
+“Code. Learn. Build. Repeat.” <br><br>“Code. Create. Learn. Grow.” 🚀
 
 
 ## 🌐 Socials:
