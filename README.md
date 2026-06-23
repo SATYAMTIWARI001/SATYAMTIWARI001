@@ -1,4 +1,4 @@
-# yooooo hi....... there 👋 I'm Satyam Tiwari 
+Hey....... there 👋 I'm Satyam Tiwari 
 
 💻 Passionate about Web Development, AI, and creating impactful digital experiences  
 🚀 Currently building projects using modern web technologies and continuously improving my development skills  
